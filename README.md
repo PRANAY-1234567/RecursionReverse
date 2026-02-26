@@ -88,7 +88,6 @@ def reverse_string(s):
 This method is more efficient and recommended for practical use.
 
 📚 Learning Outcomes
-
 After reviewing this project, you should understand:
 
 How recursion works with strings
